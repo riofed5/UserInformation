@@ -1,7 +1,7 @@
-# Resort Booking
+# User Information
 
 ### Official version
-* Visit via browser:
+* Visit via browser: https://user-information-test.netlify.app/
 
    
 ## Instruction feature
